@@ -9,8 +9,11 @@ Next there are two rules to be implemented on the linked list, that will be appl
 The current state of the linked list will be displayed after each round of enforcing the rules.
 
 Here is an example of output of three rounds of implementing these rules:
+
 coppermakerimprint
+
 cppkrmprnt
+
 cppkrnt
 
 Part II: Numbers Game.
