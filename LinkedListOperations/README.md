@@ -19,9 +19,10 @@ Next the two linked lists will be merged into a single sorted linked list.
 Then it displays the possible segments of duplicate values found in the merged list on seperate lines, along with a proper message.
 
 Here is an example:
-List1: 3461111192424 List2: 1666192228282831
-MergedList: 13466661111191922242428282831
-Sublists of duplicates: 6666
+List1: 3 4 6 11 11 19 24 24 List2: 1 6 6 6 19 22 28 28 28 31
+MergedList: 1 3 4 6 6 6 6 11 11 19 19 22 24 24 28 28 28 31
+Sublists of duplicates: 
+6 6 6 6
 11 11
 19 19
 24 24
